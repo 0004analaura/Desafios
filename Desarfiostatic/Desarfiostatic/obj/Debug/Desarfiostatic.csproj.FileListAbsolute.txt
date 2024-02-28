@@ -1,0 +1,7 @@
+C:\Users\georg\Desktop\METODOS\Desarfiostatic\Desarfiostatic\obj\Debug\Desarfiostatic.csproj.AssemblyReference.cache
+C:\Users\georg\Desktop\METODOS\Desarfiostatic\Desarfiostatic\obj\Debug\Desarfiostatic.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\METODOS\Desarfiostatic\Desarfiostatic\bin\Debug\Desarfiostatic.exe.config
+C:\Users\georg\Desktop\METODOS\Desarfiostatic\Desarfiostatic\bin\Debug\Desarfiostatic.exe
+C:\Users\georg\Desktop\METODOS\Desarfiostatic\Desarfiostatic\bin\Debug\Desarfiostatic.pdb
+C:\Users\georg\Desktop\METODOS\Desarfiostatic\Desarfiostatic\obj\Debug\Desarfiostatic.exe
+C:\Users\georg\Desktop\METODOS\Desarfiostatic\Desarfiostatic\obj\Debug\Desarfiostatic.pdb

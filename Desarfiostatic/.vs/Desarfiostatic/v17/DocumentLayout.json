@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\METODOS\\Desarfiostatic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD2A7A5-ECCB-41C2-A0FF-C6F6ABF1DD36}|Desarfiostatic\\Desarfiostatic.csproj|c:\\users\\georg\\desktop\\metodos\\desarfiostatic\\desarfiostatic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD2A7A5-ECCB-41C2-A0FF-C6F6ABF1DD36}|Desarfiostatic\\Desarfiostatic.csproj|solutionrelative:desarfiostatic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\METODOS\\Desarfiostatic\\Desarfiostatic\\Program.cs",
+              "RelativeDocumentMoniker": "Desarfiostatic\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\METODOS\\Desarfiostatic\\Desarfiostatic\\Program.cs",
+              "RelativeToolTip": "Desarfiostatic\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T04:36:19.944Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
