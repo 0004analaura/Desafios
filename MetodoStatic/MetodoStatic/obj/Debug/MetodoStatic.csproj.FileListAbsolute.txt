@@ -1,0 +1,7 @@
+C:\Users\georg\Desktop\METODOS\MetodoStatic\MetodoStatic\bin\Debug\MetodoStatic.exe.config
+C:\Users\georg\Desktop\METODOS\MetodoStatic\MetodoStatic\bin\Debug\MetodoStatic.exe
+C:\Users\georg\Desktop\METODOS\MetodoStatic\MetodoStatic\bin\Debug\MetodoStatic.pdb
+C:\Users\georg\Desktop\METODOS\MetodoStatic\MetodoStatic\obj\Debug\MetodoStatic.csproj.AssemblyReference.cache
+C:\Users\georg\Desktop\METODOS\MetodoStatic\MetodoStatic\obj\Debug\MetodoStatic.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\METODOS\MetodoStatic\MetodoStatic\obj\Debug\MetodoStatic.exe
+C:\Users\georg\Desktop\METODOS\MetodoStatic\MetodoStatic\obj\Debug\MetodoStatic.pdb

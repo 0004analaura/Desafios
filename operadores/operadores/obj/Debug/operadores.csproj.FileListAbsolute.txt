@@ -1,0 +1,7 @@
+C:\Users\georg\Desktop\METODOS\operadores\operadores\bin\Debug\operadores.exe.config
+C:\Users\georg\Desktop\METODOS\operadores\operadores\bin\Debug\operadores.exe
+C:\Users\georg\Desktop\METODOS\operadores\operadores\bin\Debug\operadores.pdb
+C:\Users\georg\Desktop\METODOS\operadores\operadores\obj\Debug\operadores.csproj.AssemblyReference.cache
+C:\Users\georg\Desktop\METODOS\operadores\operadores\obj\Debug\operadores.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\METODOS\operadores\operadores\obj\Debug\operadores.exe
+C:\Users\georg\Desktop\METODOS\operadores\operadores\obj\Debug\operadores.pdb
